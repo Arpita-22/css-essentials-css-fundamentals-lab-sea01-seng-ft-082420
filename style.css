@@ -38,7 +38,7 @@ p{
   float: left;
 }
 
-div{
+div#details{
   text-align: center;
   width: 25%;
   display: block;
