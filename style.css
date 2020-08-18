@@ -26,9 +26,9 @@ figcaption{
 }
 
 #featured-prperty{
-  width: 800px;
+  /*width: 800px;
   margin-right: auto;
-  margin-left: auto;
+  margin-left: auto;*/
   text-align: center;
   display: block;
 }
