@@ -33,7 +33,7 @@ p{
   display: block;
 }
 
-#details{
+div#details{
   display: block;
   float: left;
 }
