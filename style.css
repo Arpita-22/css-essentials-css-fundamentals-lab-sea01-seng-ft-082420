@@ -45,5 +45,5 @@ div{
   float: left;
   margin: auto;
   background-color: red;
-  position: relative;
+  position: static;
 }
